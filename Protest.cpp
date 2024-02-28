@@ -31,3 +31,4 @@ cin>>a>>b>>n>>m;
    if( b* log(a)> m * log(n))cout<<"YES";
    else cout<<"NO";
 }
+ja
